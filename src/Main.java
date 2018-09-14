@@ -5,8 +5,7 @@ public class Main {
 		System.out.println("Hola mundo");
 		
 		int a=0;
-		
-		System.out.println(a);
+		String var="dfgsdfsdf"
 	}
 
 }
